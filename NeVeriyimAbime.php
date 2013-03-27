@@ -12,7 +12,7 @@ class NeVeriyimAbime{
 	 * @param int $length
 	 * @return string
 	 */
-	public static function string($length = 10)
+	public static function stringVer($length = 10)
 	{
 		$characters = '0123456789abcçdefgğhıijklmnoöpqrsştuüvwxyzABCÇDEFGĞHIİJKLMNOÖPQRSŞTUÜVWXYZ';
 		$randomString = '';
