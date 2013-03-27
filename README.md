@@ -3,4 +3,4 @@ NeVeriyimAbime
 
 Rastgele Veri üreticisi
 
-![](https://github.com/feridmovsumov/NeVeriyimAbime/blob/master/neverecenbana.png)
+![Ne Veriyim Abime](https://github.com/feridmovsumov/NeVeriyimAbime/blob/master/neverecenbana.png)
