@@ -5,7 +5,7 @@
  * Abisi ne isterse onu verir.
  * @author Ferid Mövsümov
  */
-class NeVeriyimAbime{
+class NeVereyimAbime{
 	
 	/**
 	 * Ver ordan $length uzunluğunda bir string
