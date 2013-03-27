@@ -6,7 +6,7 @@ require_once '../NeVeriyimAbime.php';
  * Bakalım abisine gerçekten doğru şeyleri verebiliyor mu?
  * @author Ferid Mövsümov
  */
-class NeVeriyimAbimeTest extends \PHPUnit_Framework_TestCase{
+class NeVereyimAbimeTest extends \PHPUnit_Framework_TestCase{
 	
 	public function testStringVer()
 	{
@@ -15,7 +15,7 @@ class NeVeriyimAbimeTest extends \PHPUnit_Framework_TestCase{
 		{	
 			//öncelikle gerçekten istediğimiz boyutta veriyor mu bakalım stringi?
 			$randomInt = rand(1,100);
-			$this->assertEquals($randomInt, strlen(NeVeriyimAbime::stringVer($randomInt)));
+			$this->assertEquals($randomInt, strlen(NeVereyimAbime::stringVer($randomInt)));
 		}
 	}
 }
