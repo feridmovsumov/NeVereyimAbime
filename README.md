@@ -1,4 +1,4 @@
-Ne Veriyim Abime?
+Ne Vereyim Abime?
 ==============
 
 Rastgele Veri üreticisi
